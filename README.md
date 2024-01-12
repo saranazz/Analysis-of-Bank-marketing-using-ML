@@ -7,7 +7,7 @@ Key highlights:
 - Compared the results to recommend the best Regression model. 
 
 COLAB NOTEBOOK LINK:
-
+https://github.com/saranazz/Analysis-of-Bank-marketing-using-ML/blob/main/Analysis%20of%20Bank%20marketing%20using%20ML%20(1).ipynb
 
 PROJECT PRESENTATION LINK: 
 https://docs.google.com/presentation/d/1jOwZd_XLT0n_uOhhmObjzqZRpzVkGF7pLAaFviAC7sM/edit?usp=sharing
